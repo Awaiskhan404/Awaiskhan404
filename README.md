@@ -4,7 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Exploits+Developer;Security+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Senior at FAST-NUCES Islamabad, Pakistan. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle. Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself. I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products. Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led. When I'm not doing coding. i like to interact with people. 
+
+If you're still reading me, why don't we connect?</h4>
 <br>
 
 
