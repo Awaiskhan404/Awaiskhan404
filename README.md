@@ -9,6 +9,15 @@
 <br/>
 <h4 align="center">
 If you're still reading me, why don't we connect?</h4>
+
+<div style="text-align:center;">
+<a href="https://www.instagram.com/awais_khan_officials/">
+  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/awaiskhan404/">
+  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+	</div>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Awaiskhan404" /> </p>
