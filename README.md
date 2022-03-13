@@ -11,7 +11,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404)
 
-<br />--- 
+<br />
 
 I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle.
 
