@@ -64,5 +64,4 @@ If you're still reading me, why don't we connect?</h4>
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
-<img align="left" alt="GIF" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv" /> 
+<div style="text-align:center;"><img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div>
