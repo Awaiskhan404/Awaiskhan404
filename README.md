@@ -11,6 +11,9 @@ If you're still reading me, why don't we connect?</h4>
 
 
 
+<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404)</p>
+
+
 
 ## Full Stack Engineer
 ![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&theme=radical)
