@@ -11,7 +11,21 @@
 
 <br />--- 
 
+I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle.
 
+Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. 
+
+I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself.
+
+I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products
+
+Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led.
+
+When I'm not doing coding. i like to interact with people.
+
+If you're still reading me, why don't we connect?
+
+GitHub profile: www.github.com/Awaiskhan404
 
 
 ![GiovannaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&theme=radical)
