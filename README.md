@@ -15,39 +15,27 @@ If you're still reading me, why don't we connect?</h4>
 
 
 
-## Full Stack Engineer
-![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&theme=radical)
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiskhan404&theme=algolia" alt="Awaiskhan404"  /></p>
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/awais_khan_officials/">
-  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/awaiskhan404/">
-  <img align="left" alt="Awais's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404)
 
-<br />
 
-I identify myself as a transparent individual who takes responsibilities seriously and knows how to hustle.
+## 💻 GitHub Profile Stats:
 
-Giving attention to detail is one of my strongest traits while I also place strong emphasis on producing clean, quality and well documented code. 
+  <br/>
+  <p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Awaiskhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Awaiskhan404&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Awaiskhan404" height="192px"/>
+  <br/>
+  </p>
 
-I consider myself a really good team player who prioritizes the collective over my own self. I love to help others get better and equally like being mentored to improve myself.
-
-I'm currently associated with Secomind USA, as a remote full-time Full Stack Engineer where my primary tasks include development and optimization of the company's software products
-
-Apart from my technical knowhow, I have strong communication skills due to my blogging experience and I see myself equally capable when leading or being led.
-
-When I'm not doing coding. i like to interact with people.
-
-If you're still reading me, why don't we connect?
-
-GitHub profile: www.github.com/Awaiskhan404
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaiskhan404&layout=compact&theme=dark)
-
+## ⚡ GitHub Activity Graph:
+  <br/>
+   <a href="https://github.com/HxnDev"><img alt="Awais's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Awaiskhan404&custom_title=Awais%20khan's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 ## Technologies
 
