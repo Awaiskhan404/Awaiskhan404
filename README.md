@@ -11,7 +11,7 @@ If you're still reading me, why don't we connect?</h4>
 
 
 
-<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404)</p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=Awaiskhan404.Awaiskhan404"></p>
 
 
 
