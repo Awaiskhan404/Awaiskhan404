@@ -1,4 +1,6 @@
 ## Full Stack Engineer
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&theme=radical)
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/awais_khan_officials/">
   <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -27,8 +29,6 @@ If you're still reading me, why don't we connect?
 
 GitHub profile: www.github.com/Awaiskhan404
 
-
-![GiovannaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=Awaiskhan404&show_icons=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaiskhan404&layout=compact&theme=dark)
 
 
