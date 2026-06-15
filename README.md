@@ -1,31 +1,46 @@
 # Awais Khan
- 
-AI & Full-Stack Engineer based in Pakistan. I build production AI systems — voice agents, LLM pipelines, and the backend infrastructure behind them.
- 
-5+ years of professional experience across mobile, backend, and AI/agent layers. Currently focused on conversational AI and voice agents in production.
- 
+
+Senior Rust Engineer based in Pakistan.  
+Building high-performance, memory-safe systems — real-time audio pipelines, async backends, and AI infrastructure in production.
+
 ---
- 
-### What I do
- 
-- **AI / LLMs** — Anthropic API, LangChain, LangGraph, RAG, tool calling, agent evals
-- **Voice AI** — real-time call answering, triage, multi-turn conversation
-- **Backend** — TypeScript (NestJS, Express), Python (FastAPI, Django), GraphQL
-- **Cloud** — AWS, GCP, Kubernetes, Docker, Terraform
-- **Data** — PostgreSQL, Redis, MongoDB, Supabase
-### Languages
- 
-TypeScript, Python, JavaScript, Rust, Go
- 
-### Currently
- 
-Senior Software Engineer working on production AI voice systems — conversational agents, multi-region cloud infrastructure, and the reliability work that keeps it all running.
- 
+
+## What I build
+
+**Rust**  
+Tokio · Axum · Actix-web · Tonic · Hyper · Tower · Serde · sqlx · nom · prost  
+cbindgen · bindgen · Flume · Crossbeam · Rayon · Criterion · Proptest · cargo-nextest
+
+**Systems**  
+SIP/WebSocket gateways · binary-frame parsers · FFI bridges · zero-copy audio pipelines · async event buses · streaming inference runtimes
+
+**AI Infrastructure**  
+Multi-LLM agent runtimes · RAG pipelines · voice AI at scale · Anthropic Claude · OpenAI  
+LangChain · LangGraph · tool calling · agent evaluation harnesses
+
+**Cloud**  
+AWS (Lambda, SQS, S3, RDS, ECS) · GCP (GKE) · Kubernetes · Docker · Terraform · Datadog
+
+**Also write**  
+Python · TypeScript · Go · SQL
+
 ---
- 
-### Contact
- 
-- LinkedIn: [awaiskhan404](https://www.linkedin.com/in/awaiskhan404/)
-- Email: awais.push@gmail.com
-- Location: Multan, Pakistan (open to remote/relocations)
-Open to senior engineering roles. Comfortable working across time zones.
+
+## Currently
+
+Senior Rust Engineer at CodiuX — production voice AI systems: 2,000–5,000 concurrent sessions/hr at p99 < 40 ms, SIP/WebSocket gateways, multi-LLM agent orchestration, HIPAA/GDPR compliance.
+
+---
+
+## Open Source
+
+[**sesame-csm**](https://github.com/Awaiskhan404/sesame-csm) — Streaming inference runtime converting batch-only voice AI models into sub-second backends. Tokio pipeline, zero-copy audio buffers, SIMD frame processing, Tonic gRPC interface.
+
+---
+
+## Contact
+
+[linkedin.com/in/awaiskhan404](https://linkedin.com/in/awaiskhan404) · awais.push@gmail.com  
+Multan, Pakistan — open to remote / relocation
+
+Open to senior Rust engineering roles.
